@@ -1,1 +1,3 @@
-# packt-python-ds-essentials
+# Packt: Python Data Science Essentials
+
+IPython
